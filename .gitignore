@@ -2,7 +2,10 @@
 /dist
 /node_modules
 
-#Dependency tree
+#Env variables
+.env
+
+# Dependency tree
 package-lock.json
 
 # Logs
